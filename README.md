@@ -21,3 +21,11 @@
 Затем сделал сам git commit с .gitignore
 
 ![alt text](image-5.png)
+
+Далее я создал репозиторию на гитхабе и связал её с гитовской
+
+![alt text](image-6.png)
+
+![alt text](image-7.png)
+
+
